@@ -30,7 +30,7 @@ This microservice provides RESTful API endpoints for managing user posts.
 2. **Navigate to the project directory:**
 
     ```bash
-    cd <project-directory>
+    cd TestTask
     ```
 
 3. **Build the project using Maven:**
